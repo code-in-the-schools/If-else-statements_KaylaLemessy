@@ -8,7 +8,13 @@ for i in inputone:
     print(i + " is a vowel") 
   else: 
     print(i + " is a constant ")
-    
+
+
+
+
+
+
+    v
 
 
 
